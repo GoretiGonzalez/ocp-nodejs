@@ -1,13 +1,12 @@
 {
-  "name": "nodejs-helloworld",
+  "name": "nodejs-registration-app",
   "version": "1.0.0",
-  "description": "Hello World!",
+  "description": "Registration-app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Red Hat Training",
-  "license": "ASL",
+  "author": "Ruth Goreti Gonzalez Rodriguez",
   "dependencies": {
     "express": "4.14.x"
   }
